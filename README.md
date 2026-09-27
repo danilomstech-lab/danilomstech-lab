@@ -1,7 +1,6 @@
 # Ciêntista De Dados Junior
 ## Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
----
-
+--
 **Skills**
 
 ### Linguagens
