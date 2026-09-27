@@ -1,4 +1,4 @@
-## Sejam muito bem vindos ao meu Github, entrem e aproveitem pra darem uma olhada. 👋
+## Sejam muito bem vindos ao meu Github, aproveitem a estadia . 👋
 
 <!--
 **danilomstech-lab/danilomstech-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
