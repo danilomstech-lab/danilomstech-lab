@@ -1,6 +1,6 @@
 ## Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
 
- **Ciêntista De Dados**  
+ **Ciêntista De Dados Junior**  
 ---
 
 **Skills**
