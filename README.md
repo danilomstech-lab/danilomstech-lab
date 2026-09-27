@@ -1,7 +1,10 @@
 # Ciêntista De Dados Junior
-## Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
---
-**Skills**
+
+### Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
+<hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
+
+### Técnologias & Ferramentas
+>
 
 ### Linguagens
 
@@ -19,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### Ferramentas
+### Ferramentas/ Visualização
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -29,14 +32,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
----
+### 📊 GitHub Stats
 
-## 🚀 Philosophy
+<p align="left">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DaniloMenezes&custom_title=Danilo%20Menezes&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DaniloMenezes&layout=compact&theme=tokyonight" />
+</p>
+
+## 🚀 Filosofia
 
 >**"Análise de dados não é sobre prever o futuro.
 > É sobre entender o presente profundamente o suficiente para construir o próximo passo."**
