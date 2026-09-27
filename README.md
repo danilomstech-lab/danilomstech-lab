@@ -3,7 +3,7 @@
 ### Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
 <hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
 
-### Técnologias & Ferramentas
+### Tecnologias & Ferramentas
 >
 
 ### Linguagens
@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### Ferramentas/ Visualização
+### Ferramentas | Visualização
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
