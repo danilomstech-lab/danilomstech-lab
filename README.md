@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatíticas GIThub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DaniloMenezes&custom_title=Danilo%20Menezes&show_icons=true&theme=tokyonight&count_private=true" />
