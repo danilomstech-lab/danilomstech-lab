@@ -1,4 +1,4 @@
-# Ciêntista De Dados Junior**
+# Ciêntista De Dados Junior
 
 ## Sejam muito bem vindos ao meu Github, aproveitem a estadia 👋
 ---
